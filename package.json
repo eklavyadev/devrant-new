@@ -1,0 +1,29 @@
+{
+  "name": "devrant-new",
+  "version": "1.0.0",
+  "description": "A JavaScript wrapper to post rants on devRant",
+  "main": "index.js",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eklavya-Chandra/devrant-new.git"
+  },
+  "keywords": [
+    "devrant",
+    "wrapper",
+    "bot"
+  ],
+  "author": "Eklavya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eklavya-Chandra/devrant-new/issues"
+  },
+  "homepage": "https://github.com/Eklavya-Chandra/devrant-new#readme"
+}
