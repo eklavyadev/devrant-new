@@ -11,7 +11,7 @@
 
 ```javascript
 var devRant = require("devrant-new");
-devRant.postRant("", "", "Text message for fun", "bot", 3)
+devRant.postRant("email_id", "password", "Text message for fun", "bot", 3)
 ```
 Categories of Rants
 ##### 1 - Rant
