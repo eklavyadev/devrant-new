@@ -1,5 +1,5 @@
 # devrant-new
-![banner image](https://github.com/Eklavya-Chandra/devrant-new/blob/main/Untitled%20Design%20(1).png)
+![banner image](https://github.com/Eklavya-Chandra/devrant-new/blob/main/devrant.png)
 
 ### devRant-New is a JavaScript wrapper to post rants on devRant
 
